@@ -1,0 +1,23 @@
+{
+  "name": "webpage",
+  "version": "1.0.0",
+  "description": "A test webpage for cf pages",
+  "main": "index.js",
+  "scripts": {
+    "build": "node_modules\\elm\\bin\\elm make ./src/Main.elm --optimize"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lavirlifiliol/webpage.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lavirlifiliol/webpage/issues"
+  },
+  "homepage": "https://github.com/lavirlifiliol/webpage#readme",
+  "dependencies": {
+    "elm": "^0.19.1-5"
+  }
+}
+

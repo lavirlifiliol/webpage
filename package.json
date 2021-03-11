@@ -4,7 +4,7 @@
   "description": "A test webpage for cf pages",
   "main": "index.js",
   "scripts": {
-    "build": "node_modules\\elm\\bin\\elm make ./src/Main.elm --optimize"
+    "build": "node_modules/elm/bin/elm make ./src/Main.elm --optimize"
   },
   "repository": {
     "type": "git",
